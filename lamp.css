@@ -1,0 +1,31 @@
+.spacediv{
+    margin-top: 30px;
+}
+.adjustal{
+    text-align: center;
+}
+.brand1, .brand2, .brand3, .brand4, .brand5{
+    font-size: 30px;
+}
+.brand1{
+    color:#EFD81D;
+}
+.brand2{
+    color:#F06124;
+}
+.brand3{
+    color:#0F8DC0;
+}
+.brand4{
+    color:#7952B2;
+}
+.brand5{
+    color: #339AF0;
+}
+.codeSpace{
+    margin-top: 20px;
+    text-align: right;
+}
+.codeCenter{
+    text-align: center;
+}
